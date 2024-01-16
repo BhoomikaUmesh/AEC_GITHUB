@@ -1,6 +1,6 @@
 # Program to display the Fibonacci sequence up to n-th term
 
-nterms = int(input("How many terms? bol na "))
+nterms = int(input("How many terms? bol na mahi bol naa "))
 
 # first two terms
 n1, n2 = 0, 1
